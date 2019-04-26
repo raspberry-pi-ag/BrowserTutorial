@@ -2,7 +2,7 @@
 Browser Tutorial, Learn Python in a Web Browser
 
 # Deployed version
-This Repository is deployed at https://browsertutorial.herokuapp.com/
+This Repository is deployed at https://browser-tutorial.herokuapp.com/
 
 # Local startup
 To start the server execute:
