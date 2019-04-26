@@ -1,6 +1,10 @@
 # BrowserTutorial
 Starte einen eigenen Server mit einer Webapp um Python zu lernen
 
+
+# Benutze eine schon installierte Version dieser App
+Diese App läuft auf diesem Server: https://browser-tutorial.herokuapp.com/
+
 # Starten des Servers
 
 Führe diesen Befehl in einer Linux Konsole aus um die Python Module zu installieren.
