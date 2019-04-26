@@ -1,7 +1,10 @@
 # BrowserTutorial
 Browser Tutorial, Learn Python in a Web Browser
 
-# Startup
+# Deployed version
+This Repository is deployed at https://browsertutorial.herokuapp.com/
+
+# Local startup
 To start the server execute:
 ```bash 
 $ ./main.py
